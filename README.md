@@ -3,6 +3,8 @@
 Este é um sistema de Automação de Processos Robóticos (RPA) desenvolvido em Python que fiz em parceria com a Hashtag Treinamentos em uma live de apresentação do mundo do RPA, ele foi criado para facilitar o processo de cadastro de produtos no sistema da empresa. Com este script, você pode automatizar o acesso ao sistema, realizar o login, ler uma base de dados (planilha com os produtos) e cadastrar os produtos de forma automática, até que a base de dados seja completamente processada.
 Foi excelente para aprender mais sobre automatizações com Python.
 
+OBS: Todos os dados utilizados são fictícios e não apresenta nenhuma exposição indevida.
+
 ## Funcionalidades
 
 - **Login Automático:** O sistema realiza automaticamente o login no sistema da empresa.
@@ -35,4 +37,3 @@ Esperamos que este sistema de RPA torne o processo de cadastro de produtos mais 
 
 ---
 
-*Este README foi gerado automaticamente e pode ser editado diretamente no GitHub.*
